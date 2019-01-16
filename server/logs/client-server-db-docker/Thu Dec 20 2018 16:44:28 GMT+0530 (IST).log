@@ -1,0 +1,8 @@
+[  Thu Dec 20 2018 16:44:29 GMT+0530 (IST) ]:- From https://github.com/Bhabaranjan19966/Client-Server-Db-Docker
+ * branch            HEAD       -> FETCH_HEAD
+[  Thu Dec 20 2018 16:44:29 GMT+0530 (IST) ]:- Already up to date.
+[  Thu Dec 20 2018 16:44:29 GMT+0530 (IST) ]:- git clone successful
+[  Thu Dec 20 2018 16:44:29 GMT+0530 (IST) ]:- No stopped containers
+[  Thu Dec 20 2018 16:44:29 GMT+0530 (IST) ]:- Building app
+[  Thu Dec 20 2018 16:44:30 GMT+0530 (IST) ]:- Step 1/7 : FROM node:8[  Thu Dec 20 2018 16:44:30 GMT+0530 (IST) ]:- 
+[  Thu Dec 20 2018 16:44:40 GMT+0530 (IST) ]:- Service 'app' failed to build: Get https://registry-1.docker.io/v2/: net/http: TLS handshake timeout

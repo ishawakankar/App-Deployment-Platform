@@ -1,0 +1,29 @@
+version: '3'
+services:
+  app:
+    container_name: backend14
+    build: ./
+    env_file:
+      - ./environment_variables/env_ports.env
+    links:
+      - mongo_db
+    ports:
+      - 5004:5000  
+    depends_on:
+      - mongo_db
+  
+  
+  mongo_db:
+    container_name: database112
+    image: mongo
+
+  # nginx:
+  #   build: ./nginx
+  #   restart: always
+  #   ports:
+  #     - 80:80
+  #     - 443:443
+  #   volumes:
+  #     - ./nginx/conf.d:/etc/nginx/conf.d
+    # depends_on:
+    #   - app  

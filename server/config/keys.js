@@ -1,6 +1,8 @@
 module.exports = {
-    googleKeys : {
-        clientID: "15b5e7c73832c8ca529d95272a19f95947779af0ba9cc2feed9f5a1f20d82453",
-        clientSecret: "d23a8f10458ec142c9c213de22ae0d00f218762c7d13dd848a8492ea0531711c"
-    }
-}
+  googleKeys: {
+    clientID: 'beba364bb0b848ddb8e34dc19e7582e4c9654a5290696f953db040549486f812',
+    clientSecret: 'a0df3018e8f43db95f20d17d9035caea2485c047664a559705881590001e008d ',
+  },
+};
+
+//need to have keys for production and development

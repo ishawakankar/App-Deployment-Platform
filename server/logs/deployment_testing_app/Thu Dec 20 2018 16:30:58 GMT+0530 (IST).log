@@ -1,0 +1,85 @@
+[  Thu Dec 20 2018 16:30:58 GMT+0530 (IST) ]:- Cloning into 'deployment_testing_app'...
+[  Thu Dec 20 2018 16:31:00 GMT+0530 (IST) ]:- remote: Enumerating objects: 63, done.        
+remote: Counting objects:   1% (1/63)           remote: Counting objects:   3% (2/63)           remote: Counting objects:   4% (3/63)           remote: Counting objects:   6% (4/63)           remote: Counting objects:   7% (5/63)           remote: Counting objects:   9% (6/63)           remote: Counting objects:  11% (7/63)           remote: Counting objects:  12% (8/63)           remote: Counting objects:  14% (9/63)           remote: Counting objects:  15% (10/63)           remote: Counting objects:  17% (11/63)           remote: Counting objects:  19% (12/63)           remote: Counting objects:  20% (13/63)           remote: Counting objects:  22% (14/63)           remote: Counting objects:  23% (15/63)           remote: Counting objects:  25% (16/63)           remote: Counting objects:  26% (17/63)           remote: Counting objects:  28% (18/63)           remote: Counting objects:  30% (19/63)           remote: Counting objects:  31% (20/63)           remote: Counting objects:  33% (21/63)           remote: Counting objects:  34% (22/63)           remote: Counting objects:  36% (23/63)           remote: Counting objects:  38% (24/63)           remote: Counting objects:  39% (25/63)           remote: Counting objects:  41% (26/63)           remote: Counting objects:  42% (27/63)           remote: Counting objects:  44% (28/63)           remote: Counting objects:  46% (29/63)           remote: Counting objects:  47% (30/63)           remote: Counting objects:  49% (31/63)           remote: Counting objects:  50% (32/63)           remote: Counting objects:  52% (33/63)           remote: Counting objects:  53% (34/63)           [  Thu Dec 20 2018 16:31:00 GMT+0530 (IST) ]:- remote: Counting objects:  55% (35/63)           remote: Counting objects:  57% (36/63)           remote: Counting objects:  58% (37/63)           remote: Counting objects:  60% (38/63)           remote: Counting objects:  61% (39/63)           remote: Counting objects:  63% (40/63)           remote: Counting objects:  65% (41/63)           remote: Counting objects:  66% (42/63)           remote: Counting objects:  68% (43/63)           remote: Counting objects:  69% (44/63)           remote: Counting objects:  71% (45/63)           remote: Counting objects:  73% (46/63)           remote: Counting objects:  74% (47/63)           remote: Counting objects:  76% (48/63)           remote: Counting objects:  77% (49/63)           remote: Counting objects:  79% (50/63)           remote: Counting objects:  80% (51/63)           remote: Counting objects:  82% (52/63)           remote: Counting objects:  84% (53/63)           remote: Counting objects:  85% (54/63)           remote: Counting objects:  87% (55/63)           remote: Counting objects:  88% (56/63)           remote: Counting objects:  90% (57/63)           remote: Counting objects:  92% (58/63)           remote: Counting objects:  93% (59/63)           remote: Counting objects:  95% (60/63)           remote: Counting objects:  96% (61/63)           remote: Counting objects:  98% (62/63)           remote: Counting objects: 100% (63/63)           remote: Counting objects: 100% (63/63), done.        
+remote: Compressing objects:   1% (1/55)           remote: Compressing objects:   3% (2/55)           remote: Compressing objects:   5% (3/55)           remote: Compressing objects:   7% (4/55)           remote: Compressing objects:   9% (5/55)           remote: Compressing objects:  10% (6/55)           remote: Compressing objects:  12% (7/55)           remote: Compressing objects:  14% (8/55)           remote: Compressing objects:  16% (9/55)           remote: Compressing objects:  18% (10/55)           remote: Compressing objects:  20% (11/55)           remote: Compressing objects:  21% (12/55)           remote: Compressing objects:  23% (13/55)           remote: Compressing objects:  25% (14/55)           remote: Compressing objects:  27% (15/55)           remote: Compressing objects:  29% (16/55)           remote: Compressing objects:  30% (17/55)           remote: Compressing objects:  32% (18/55)           remote: Compressing objects:  34% (19/55)           remote: Compressing objects:  36% (20/55)           remote: Compressing objects:  38% (21/55)           remote: Compressing objects:  40% (22/55)           remote: Compressing objects:  41% (23/55)           remote: Compressing objects:  43% (24/55)           remote: Compressing objects:  45% (25/55)           remote: Compressing objects:  47% (26/55)           remote: Compressing objects:  49% (27/55)           remote: Compressing objects:  50% (28/55)           remote: Compressing objects:  52% (29/55)           remote: Compressing objects:  54% (30/55)           remote: Compressing objects:  56% (31/55)           remote: Compressing objects:  58% (32/55)           remote: Compressing objects:  60% (33/55)           remote: Compressing objects:  61% (34/55)           remote: Compressing objects:  63% (35/55)           remote: Compressing objects:  65% (36/55)           remote: Compressing objects:  67% (37/55)           remote: Compressing objects:  69% (38/55)           remote: Compressing objects:  70% (39/55)           remote: Compressing objects:  72% (40/55)           remote: Compressing objects:  74% (41/55)           remote: Compressing objects:  76% (42/55)           remote: Compressing objects:  78% (43/55)           remote: Compressing objects:  80% (44/55)           remote: Compressing objects:  81% (45/55)           [  Thu Dec 20 2018 16:31:00 GMT+0530 (IST) ]:- remote: Compressing objects:  83% (46/55)           remote: Compressing objects:  85% (47/55)           remote: Compressing objects:  87% (48/55)           remote: Compressing objects:  89% (49/55)           remote: Compressing objects:  90% (50/55)           remote: Compressing objects:  92% (51/55)           remote: Compressing objects:  94% (52/55)           remote: Compressing objects:  96% (53/55)           remote: Compressing objects:  98% (54/55)           remote: Compressing objects: 100% (55/55)           [  Thu Dec 20 2018 16:31:00 GMT+0530 (IST) ]:- remote: Compressing objects: 100% (55/55), done.        
+[  Thu Dec 20 2018 16:31:17 GMT+0530 (IST) ]:- remote: Total 63 (delta 3), reused 62 (delta 2), pack-reused 0        
+[  Thu Dec 20 2018 16:31:18 GMT+0530 (IST) ]:- git clone successful
+[  Thu Dec 20 2018 16:31:18 GMT+0530 (IST) ]:- No stopped containers
+[  Thu Dec 20 2018 16:31:19 GMT+0530 (IST) ]:- Building deployed_app
+[  Thu Dec 20 2018 16:31:19 GMT+0530 (IST) ]:- Step 1/7 : FROM node:8[  Thu Dec 20 2018 16:31:19 GMT+0530 (IST) ]:- 
+ ---> 3b7ecd51ffe5
+Step 2/7 : WORKDIR /usr/src/app
+ ---> Using cache
+ ---> aa67dd736c04
+Step 3/7 : COPY ./package*.json ./
+[  Thu Dec 20 2018 16:31:19 GMT+0530 (IST) ]:-  ---> Using cache
+ ---> bcb1ea454554
+Step 4/7 : RUN npm install
+[  Thu Dec 20 2018 16:31:19 GMT+0530 (IST) ]:-  ---> Using cache
+ ---> 867849a57991
+Step 5/7 : COPY ./ ./
+[  Thu Dec 20 2018 16:31:21 GMT+0530 (IST) ]:-  ---> 32d95cb27530
+[  Thu Dec 20 2018 16:31:21 GMT+0530 (IST) ]:- Step 6/7 : EXPOSE 5000
+[  Thu Dec 20 2018 16:31:22 GMT+0530 (IST) ]:-  ---> Running in a7d0bbab7e45
+[  Thu Dec 20 2018 16:31:23 GMT+0530 (IST) ]:- Removing intermediate container a7d0bbab7e45
+[  Thu Dec 20 2018 16:31:23 GMT+0530 (IST) ]:-  ---> a1e637cb5768
+Step 7/7 : CMD ["npm" , "start"]
+[  Thu Dec 20 2018 16:31:23 GMT+0530 (IST) ]:-  ---> Running in 5606b23b5762
+[  Thu Dec 20 2018 16:31:23 GMT+0530 (IST) ]:- Removing intermediate container 5606b23b5762
+[  Thu Dec 20 2018 16:31:23 GMT+0530 (IST) ]:-  ---> 5d33ec3d2cf3
+Successfully built 5d33ec3d2cf3
+[  Thu Dec 20 2018 16:31:23 GMT+0530 (IST) ]:- Successfully tagged deploymenttestingapp_deployed_app:latest
+[  Thu Dec 20 2018 16:31:23 GMT+0530 (IST) ]:- Creating database_deployed ... 
+[  Thu Dec 20 2018 16:31:23 GMT+0530 (IST) ]:- Creating database_deployed
+[  Thu Dec 20 2018 16:31:25 GMT+0530 (IST) ]:- [1A[2KCreating database_deployed ... [32mdone[0m[1B[  Thu Dec 20 2018 16:31:25 GMT+0530 (IST) ]:- Creating backend_deployed ... 
+[  Thu Dec 20 2018 16:31:25 GMT+0530 (IST) ]:- Creating backend_deployed
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [1A[2KCreating backend_deployed ... [32mdone[0m[1B[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- Attaching to database_deployed, backend_deployed
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.390+0000 I CONTROL  [main] Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten] MongoDB starting : pid=1 port=27017 dbpath=/data/db 64-bit host=619c51a25cd8
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten] db version v4.0.4
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten] git version: f288a3bdf201007f3693c58e140056adf8b04839
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.2g  1 Mar 2016
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten] allocator: tcmalloc
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten] modules: none
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten] build environment:
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten]     distmod: ubuntu1604
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten]     distarch: x86_64
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten]     target_arch: x86_64
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I CONTROL  [initandlisten] options: { net: { bindIpAll: true } }
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I STORAGE  [initandlisten] 
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I STORAGE  [initandlisten] ** WARNING: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I STORAGE  [initandlisten] **          See http://dochub.mongodb.org/core/prodnotes-filesystem
+[36mdatabase_deployed |[0m 2018-12-20T11:01:25.394+0000 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=7438M,session_max=20000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),statistics_log=(wait=0),verbose=(recovery_progress),
+[36mdatabase_deployed |[0m 2018-12-20T11:01:27.450+0000 I STORAGE  [initandlisten] WiredTiger message [1545303687:450659][1:0x7fee86806a40], txn-recover: Set global recovery timestamp: 0
+[36mdatabase_deployed |[0m 2018-12-20T11:01:27.731+0000 I RECOVERY [initandlisten] WiredTiger recoveryTimestamp. Ts: Timestamp(0, 0)
+[36mdatabase_deployed |[0m 2018-12-20T11:01:27.859+0000 I CONTROL  [initandlisten] 
+[36mdatabase_deployed |[0m 2018-12-20T11:01:27.859+0000 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+[36mdatabase_deployed |[0m 2018-12-20T11:01:27.859+0000 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+[36mdatabase_deployed |[0m 2018-12-20T11:01:27.859+0000 I CONTROL  [initandlisten] 
+[36mdatabase_deployed |[0m 2018-12-20T11:01:27.860+0000 I STORAGE  [initandlisten] createCollection: admin.system.version with provided UUID: e576491a-8741-42ae-9d84-222292331119
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:01:27.990+0000 I COMMAND  [initandlisten] setting featureCompatibilityVersion to 4.0
+[36mdatabase_deployed |[0m 2018-12-20T11:01:28.001+0000 I STORAGE  [initandlisten] createCollection: local.startup_log with generated UUID: da01ecfe-3887-4445-b324-b92b7cc2ac59
+[36mdatabase_deployed |[0m 2018-12-20T11:01:28.282+0000 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory '/data/db/diagnostic.data'
+[36mdatabase_deployed |[0m 2018-12-20T11:01:28.285+0000 I NETWORK  [initandlisten] waiting for connections on port 27017
+[36mdatabase_deployed |[0m 2018-12-20T11:01:28.285+0000 I STORAGE  [LogicalSessionCacheRefresh] createCollection: config.system.sessions with generated UUID: 38a26ab9-a8cb-435a-a8bf-44764bb8dcbe
+[36mdatabase_deployed |[0m 2018-12-20T11:01:28.383+0000 I INDEX    [LogicalSessionCacheRefresh] build index on: config.system.sessions properties: { v: 2, key: { lastUse: 1 }, name: "lsidTTLIndex", ns: "config.system.sessions", expireAfterSeconds: 1800 }
+[36mdatabase_deployed |[0m 2018-12-20T11:01:28.384+0000 I INDEX    [LogicalSessionCacheRefresh] 	 building index using bulk method; build may temporarily use up to 500 megabytes of RAM
+[36mdatabase_deployed |[0m 2018-12-20T11:01:28.386+0000 I INDEX    [LogicalSessionCacheRefresh] build index done.  scanned 0 total records. 0 secs
+[36mdatabase_deployed |[0m 2018-12-20T11:01:28.386+0000 I COMMAND  [LogicalSessionCacheRefresh] command config.$cmd command: createIndexes { createIndexes: "system.sessions", indexes: [ { key: { lastUse: 1 }, name: "lsidTTLIndex", expireAfterSeconds: 1800 } ], $db: "config" } numYields:0 reslen:114 locks:{ Global: { acquireCount: { r: 2, w: 2 } }, Database: { acquireCount: { w: 2, W: 1 } }, Collection: { acquireCount: { w: 2 } } } protocol:op_msg 100ms
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [33mbackend_deployed |[0m 
+[33mbackend_deployed |[0m > test@1.0.0 start /usr/src/app
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [33mbackend_deployed |[0m > node server.js
+[33mbackend_deployed |[0m 
+[  Thu Dec 20 2018 16:31:29 GMT+0530 (IST) ]:- [33mbackend_deployed |[0m listening on port 5010
+[  Thu Dec 20 2018 16:34:42 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:04:42.080+0000 I CONTROL  [signalProcessingThread] got signal 15 (Terminated), will terminate after current cmd ends
+[  Thu Dec 20 2018 16:34:42 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:04:42.080+0000 I NETWORK  [signalProcessingThread] shutdown: going to close listening sockets...
+[36mdatabase_deployed |[0m 2018-12-20T11:04:42.080+0000 I NETWORK  [signalProcessingThread] removing socket file: /tmp/mongodb-27017.sock
+[36mdatabase_deployed |[0m 2018-12-20T11:04:42.081+0000 I CONTROL  [signalProcessingThread] Shutting down free monitoring
+[36mdatabase_deployed |[0m 2018-12-20T11:04:42.081+0000 I FTDC     [signalProcessingThread] Shutting down full-time diagnostic data capture
+[36mdatabase_deployed |[0m 2018-12-20T11:04:42.083+0000 I STORAGE  [signalProcessingThread] WiredTigerKVEngine shutting down
+[  Thu Dec 20 2018 16:34:43 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:04:43.508+0000 I STORAGE  [signalProcessingThread] shutdown: removing fs lock...
+[  Thu Dec 20 2018 16:34:43 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:04:43.615+0000 I CONTROL  [signalProcessingThread] now exiting
+[  Thu Dec 20 2018 16:34:43 GMT+0530 (IST) ]:- [36mdatabase_deployed |[0m 2018-12-20T11:04:43.615+0000 I CONTROL  [signalProcessingThread] shutting down with code:0
+[  Thu Dec 20 2018 16:34:46 GMT+0530 (IST) ]:- [33mbackend_deployed exited with code 0
+[0m[  Thu Dec 20 2018 16:34:47 GMT+0530 (IST) ]:- [36mdatabase_deployed exited with code 0
+[0m

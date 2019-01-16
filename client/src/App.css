@@ -1,32 +1,41 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
-
-.App-header {
-  background-image: url("https://backgroundcheckall.com/wp-content/uploads/2017/12/login-background-images-for-project-2.jpg");
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+    text-align: center;
+   }
+   
+   .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 40vmin;
+   }
+   
+   #loginButton {
+    color:white;
+    font-size: 1em;
+   }
+   
+   .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+   }
+   
+   .App-link {
+    color: #61dafb;
+   }
+   .appname {
+    font-size: 2em !important;
+    margin-bottom: 20px;
+   }
+   
+   @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+   }

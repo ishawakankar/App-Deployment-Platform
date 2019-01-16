@@ -1,0 +1,366 @@
+[  Thu Dec 20 2018 16:47:10 GMT+0530 (IST) ]:- Cloning into 'deployment_platform'...
+[  Thu Dec 20 2018 16:47:12 GMT+0530 (IST) ]:- remote: Enumerating objects: 266, done.        
+remote: Counting objects:   0% (1/266)           [  Thu Dec 20 2018 16:47:12 GMT+0530 (IST) ]:- remote: Counting objects:   1% (3/266)           remote: Counting objects:   2% (6/266)           [  Thu Dec 20 2018 16:47:12 GMT+0530 (IST) ]:- remote: Counting objects:   3% (8/266)           remote: Counting objects:   4% (11/266)           remote: Counting objects:   5% (14/266)           remote: Counting objects:   6% (16/266)           remote: Counting objects:   7% (19/266)           remote: Counting objects:   8% (22/266)           remote: Counting objects:   9% (24/266)           remote: Counting objects:  10% (27/266)           remote: Counting objects:  11% (30/266)           remote: Counting objects:  12% (32/266)           remote: Counting objects:  13% (35/266)           remote: Counting objects:  14% (38/266)           remote: Counting objects:  15% (40/266)           remote: Counting objects:  16% (43/266)           remote: Counting objects:  17% (46/266)           remote: Counting objects:  18% (48/266)           remote: Counting objects:  19% (51/266)           remote: Counting objects:  20% (54/266)           remote: Counting objects:  21% (56/266)           remote: Counting objects:  22% (59/266)           remote: Counting objects:  23% (62/266)           remote: Counting objects:  24% (64/266)           remote: Counting objects:  25% (67/266)           remote: Counting objects:  26% (70/266)           remote: Counting objects:  27% (72/266)           remote: Counting objects:  28% (75/266)           remote: Counting objects:  29% (78/266)           remote: Counting objects:  30% (80/266)           remote: Counting objects:  31% (83/266)           remote: Counting objects:  32% (86/266)           remote: Counting objects:  33% (88/266)           remote: Counting objects:  34% (91/266)           remote: Counting objects:  35% (94/266)           remote: Counting objects:  36% (96/266)           remote: Counting objects:  37% (99/266)           remote: Counting objects:  38% (102/266)           remote: Counting objects:  39% (104/266)           remote: Counting objects:  40% (107/266)           remote: Counting objects:  41% (110/266)           remote: Counting objects:  42% (112/266)           remote: Counting objects:  43% (115/266)           remote: Counting objects:  44% (118/266)           remote: Counting objects:  45% (120/266)           remote: Counting objects:  46% (123/266)           remote: Counting objects:  47% (126/266)           remote: Counting objects:  48% (128/266)           remote: Counting objects:  49% (131/266)           remote: Counting objects:  50% (133/266)           remote: Counting objects:  51% (136/266)           remote: Counting objects:  52% (139/266)           remote: Counting objects:  53% (141/266)           remote: Counting objects:  54% (144/266)           remote: Counting objects:  55% (147/266)           remote: Counting objects:  56% (149/266)           remote: Counting objects:  57% (152/266)           remote: Counting objects:  58% (155/266)           remote: Counting objects:  59% (157/266)           remote: Counting objects:  60% (160/266)           remote: Counting objects:  61% (163/266)           remote: Counting objects:  62% (165/266)           remote: Counting objects:  63% (168/266)           remote: Counting objects:  64% (171/266)           remote: Counting objects:  65% (173/266)           remote: Counting objects:  66% (176/266)           remote: Counting objects:  67% (179/266)           remote: Counting objects:  68% (181/266)           remote: Counting objects:  69% (184/266)           remote: Counting objects:  70% (187/266)           remote: Counting objects:  71% (189/266)           remote: Counting objects:  72% (192/266)           remote: Counting objects:  73% (195/266)           remote: Counting objects:  74% (197/266)           remote: Counting objects:  75% (200/266)           remote: Counting objects:  76% (203/266)           remote: Counting objects:  77% (205/266)           remote: Counting objects:  78% (208/266)           remote: Counting objects:  79% (211/266)           remote: Counting objects:  80% (213/266)           remote: Counting objects:  81% (216/266)           remote: Counting objects:  82% (219/266)           remote: Counting objects:  83% (221/266)           remote: Counting objects:  84% (224/266)           remote: Counting objects:  85% (227/266)           remote: Counting objects:  86% (229/266)           remote: Counting objects:  87% (232/266)           remote: Counting objects:  88% (235/266)           remote: Counting objects:  89% (237/266)           remote: Counting objects:  90% (240/266)           remote: Counting objects:  91% (243/266)           remote: Counting objects:  92% (245/266)           remote: Counting objects:  93% (248/266)           remote: Counting objects:  94% (251/266)           remote: Counting objects:  95% (253/266)           remote: Counting objects:  96% (256/266)           remote: Counting objects:  97% (259/266)           remote: Counting objects:  98% (261/266)           remote: Counting objects:  99% (264/266)           remote: Counting objects: 100% (266/266)           remote: Counting objects: 100% (266/266), done.        
+remote: Compressing objects:   0% (1/223)           remote: Compressing objects:   1% (3/223)           remote: Compressing objects:   2% (5/223)           remote: Compressing objects:   3% (7/223)           remote: Compressing objects:   4% (9/223)           remote: Compressing objects:   5% (12/223)           remote: Compressing objects:   6% (14/223)           remote: Compressing objects:   7% (16/223)           remote: Compressing objects:   8% (18/223)           remote: Compressing objects:   9% (21/223)           remote: Compressing objects:  10% (23/223)           remote: Compressing objects:  11% (25/223)           remote: Compressing objects:  12% (27/223)           remote: Compressing objects:  13% (29/223)           remote: Compressing objects:  14% (32/223)           remote: Compressing objects:  15% (34/223)           remote: Compressing objects:  16% (36/223)           remote: Compressing objects:  17% (38/223)           remote: Compressing objects:  18% (41/223)           remote: Compressing objects:  19% (43/223)           remote: Compressing objects:  20% (45/223)           remote: Compressing objects:  21% (47/223)           remote: Compressing objects:  22% (50/223)           remote: Compressing objects:  23% (52/223)           remote: Compressing objects:  24% (54/223)           remote: Compressing objects:  25% (56/223)           remote: Compressing objects:  26% (58/223)           remote: Compressing objects:  27% (61/223)           remote: Compressing objects:  28% (63/223)           remote: Compressing objects:  29% (65/223)           remote: Compressing objects:  30% (67/223)           remote: Compressing objects:  31% (70/223)           remote: Compressing objects:  32% (72/223)           remote: Compressing objects:  33% (74/223)           remote: Compressing objects:  34% (76/223)           remote: Compressing objects:  35% (79/223)           remote: Compressing objects:  36% (81/223)           remote: Compressing objects:  37% (83/223)           remote: Compressing objects:  38% (85/223)           remote: Compressing objects:  39% (87/223)           remote: Compressing objects:  40% (90/223)           remote: Compressing objects:  41% (92/223)           remote: Compressing objects:  42% (94/223)           remote: Compressing objects:  43% (96/223)           remote: Compressing objects:  44% (99/223)           remote: Compressing objects:  45% (101/223)           remote: Compressing objects:  46% (103/223)           remote: Compressing objects:  47% (105/223)           remote: Compressing objects:  48% (108/223)           remote: Compressing objects:  49% (110/223)           remote: Compressing objects:  50% (112/223)           remote: Compressing objects:  51% (114/223)           remote: Compressing objects:  52% (116/223)           remote: Compressing objects:  53% (119/223)           remote: Compressing objects:  54% (121/223)           remote: Compressing objects:  55% (123/223)           remote: Compressing objects:  56% (125/223)           remote: Compressing objects:  57% (128/223)           remote: Compressing objects:  58% (130/223)           remote: Compressing objects:  59% (132/223)           remote: Compressing objects:  60% (134/223)           remote: Compressing objects:  61% (137/223)           remote: Compressing objects:  62% (139/223)           remote: Compressing objects:  63% (141/223)           remote: Compressing objects:  64% (143/223)           remote: Compressing objects:  65% (145/223)           remote: Compressing objects:  66% (148/223)           remote: Compressing objects:  67% (150/223)           remote: Compressing objects:  68% (152/223)           remote: Compressing objects:  69% (154/223)           remote: Compressing objects:  70% (157/223)           remote: Compressing objects:  71% (159/223)           remote: Compressing objects:  72% (161/223)           remote: Compressing objects:  73% (163/223)           [  Thu Dec 20 2018 16:47:13 GMT+0530 (IST) ]:- remote: Compressing objects:  74% (166/223)           remote: Compressing objects:  75% (168/223)           remote: Compressing objects:  76% (170/223)           remote: Compressing objects:  77% (172/223)           remote: Compressing objects:  78% (174/223)           [  Thu Dec 20 2018 16:47:13 GMT+0530 (IST) ]:- remote: Compressing objects:  79% (177/223)           remote: Compressing objects:  80% (179/223)           remote: Compressing objects:  81% (181/223)           remote: Compressing objects:  82% (183/223)           remote: Compressing objects:  83% (186/223)           remote: Compressing objects:  84% (188/223)           remote: Compressing objects:  85% (190/223)           remote: Compressing objects:  86% (192/223)           remote: Compressing objects:  87% (195/223)           remote: Compressing objects:  88% (197/223)           remote: Compressing objects:  89% (199/223)           remote: Compressing objects:  90% (201/223)           remote: Compressing objects:  91% (203/223)           remote: Compressing objects:  92% (206/223)           remote: Compressing objects:  93% (208/223)           remote: Compressing objects:  94% (210/223)           remote: Compressing objects:  95% (212/223)           remote: Compressing objects:  96% (215/223)           remote: Compressing objects:  97% (217/223)           remote: Compressing objects:  98% (219/223)           remote: Compressing objects:  99% (221/223)           remote: Compressing objects: 100% (223/223)           remote: Compressing objects: 100% (223/223), done.        
+[  Thu Dec 20 2018 16:47:13 GMT+0530 (IST) ]:- Receiving objects:   0% (1/266)   Receiving objects:   1% (3/266)   Receiving objects:   2% (6/266)   Receiving objects:   3% (8/266)   [  Thu Dec 20 2018 16:47:13 GMT+0530 (IST) ]:- Receiving objects:   4% (11/266)   Receiving objects:   5% (14/266)   Receiving objects:   6% (16/266)   [  Thu Dec 20 2018 16:47:13 GMT+0530 (IST) ]:- Receiving objects:   7% (19/266)   [  Thu Dec 20 2018 16:47:13 GMT+0530 (IST) ]:- Receiving objects:   8% (22/266)   Receiving objects:   9% (24/266)   Receiving objects:  10% (27/266)   Receiving objects:  11% (30/266)   Receiving objects:  12% (32/266)   Receiving objects:  13% (35/266)   Receiving objects:  14% (38/266)   Receiving objects:  15% (40/266)   Receiving objects:  16% (43/266)   Receiving objects:  17% (46/266)   Receiving objects:  18% (48/266)   Receiving objects:  19% (51/266)   Receiving objects:  20% (54/266)   [  Thu Dec 20 2018 16:47:13 GMT+0530 (IST) ]:- Receiving objects:  21% (56/266), 28.00 KiB | 38.00 KiB/s   Receiving objects:  22% (59/266), 28.00 KiB | 38.00 KiB/s   [  Thu Dec 20 2018 16:47:13 GMT+0530 (IST) ]:- Receiving objects:  23% (62/266), 28.00 KiB | 38.00 KiB/s   Receiving objects:  24% (64/266), 28.00 KiB | 38.00 KiB/s   Receiving objects:  25% (67/266), 28.00 KiB | 38.00 KiB/s   Receiving objects:  26% (70/266), 28.00 KiB | 38.00 KiB/s   Receiving objects:  27% (72/266), 28.00 KiB | 38.00 KiB/s   Receiving objects:  28% (75/266), 28.00 KiB | 38.00 KiB/s   [  Thu Dec 20 2018 16:47:14 GMT+0530 (IST) ]:- Receiving objects:  29% (78/266), 28.00 KiB | 38.00 KiB/s   [  Thu Dec 20 2018 16:47:14 GMT+0530 (IST) ]:- Receiving objects:  30% (80/266), 28.00 KiB | 38.00 KiB/s   Receiving objects:  31% (83/266), 28.00 KiB | 38.00 KiB/s   [  Thu Dec 20 2018 16:47:14 GMT+0530 (IST) ]:- Receiving objects:  31% (84/266), 60.00 KiB | 47.00 KiB/s   [  Thu Dec 20 2018 16:47:15 GMT+0530 (IST) ]:- Receiving objects:  31% (84/266), 116.00 KiB | 42.00 KiB/s   [  Thu Dec 20 2018 16:47:16 GMT+0530 (IST) ]:- Receiving objects:  31% (84/266), 140.00 KiB | 42.00 KiB/s   [  Thu Dec 20 2018 16:47:17 GMT+0530 (IST) ]:- Receiving objects:  31% (84/266), 188.00 KiB | 41.00 KiB/s   [  Thu Dec 20 2018 16:47:18 GMT+0530 (IST) ]:- Receiving objects:  31% (84/266), 212.00 KiB | 41.00 KiB/s   [  Thu Dec 20 2018 16:47:19 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 276.00 KiB | 43.00 KiB/s   [  Thu Dec 20 2018 16:47:20 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 348.00 KiB | 47.00 KiB/s   [  Thu Dec 20 2018 16:47:21 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 388.00 KiB | 49.00 KiB/s   [  Thu Dec 20 2018 16:47:22 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 468.00 KiB | 52.00 KiB/s   [  Thu Dec 20 2018 16:47:23 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 516.00 KiB | 54.00 KiB/s   [  Thu Dec 20 2018 16:47:24 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 572.00 KiB | 55.00 KiB/s   [  Thu Dec 20 2018 16:47:25 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 604.00 KiB | 54.00 KiB/s   [  Thu Dec 20 2018 16:47:27 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 684.00 KiB | 51.00 KiB/s   [  Thu Dec 20 2018 16:47:27 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 692.00 KiB | 47.00 KiB/s   [  Thu Dec 20 2018 16:47:28 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 708.00 KiB | 43.00 KiB/s   [  Thu Dec 20 2018 16:47:29 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 740.00 KiB | 36.00 KiB/s   [  Thu Dec 20 2018 16:47:30 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 748.00 KiB | 35.00 KiB/s   [  Thu Dec 20 2018 16:47:31 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 780.00 KiB | 28.00 KiB/s   [  Thu Dec 20 2018 16:47:32 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 796.00 KiB | 21.00 KiB/s   [  Thu Dec 20 2018 16:47:33 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 820.00 KiB | 21.00 KiB/s   [  Thu Dec 20 2018 16:47:34 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 860.00 KiB | 23.00 KiB/s   [  Thu Dec 20 2018 16:47:35 GMT+0530 (IST) ]:- Receiving objects:  31% (85/266), 892.00 KiB | 26.00 KiB/s   [  Thu Dec 20 2018 16:47:35 GMT+0530 (IST) ]:- Receiving objects:  32% (86/266), 892.00 KiB | 26.00 KiB/s   [  Thu Dec 20 2018 16:47:35 GMT+0530 (IST) ]:- Receiving objects:  33% (88/266), 892.00 KiB | 26.00 KiB/s   [  Thu Dec 20 2018 16:47:35 GMT+0530 (IST) ]:- Receiving objects:  34% (91/266), 892.00 KiB | 26.00 KiB/s   [  Thu Dec 20 2018 16:47:36 GMT+0530 (IST) ]:- Receiving objects:  34% (93/266), 956.00 KiB | 36.00 KiB/s   [  Thu Dec 20 2018 16:47:36 GMT+0530 (IST) ]:- Receiving objects:  35% (94/266), 956.00 KiB | 36.00 KiB/s   [  Thu Dec 20 2018 16:47:36 GMT+0530 (IST) ]:- Receiving objects:  36% (96/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  37% (99/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  38% (102/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  39% (104/266), 956.00 KiB | 36.00 KiB/s   [  Thu Dec 20 2018 16:47:36 GMT+0530 (IST) ]:- Receiving objects:  40% (107/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  41% (110/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  42% (112/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  43% (115/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  44% (118/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  45% (120/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  46% (123/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  47% (126/266), 956.00 KiB | 36.00 KiB/s   Receiving objects:  48% (128/266), 956.00 KiB | 36.00 KiB/s   [  Thu Dec 20 2018 16:47:37 GMT+0530 (IST) ]:- Receiving objects:  48% (128/266), 1012.00 KiB | 41.00 KiB/s   [  Thu Dec 20 2018 16:47:38 GMT+0530 (IST) ]:- Receiving objects:  48% (128/266), 1.14 MiB | 63.00 KiB/s   [  Thu Dec 20 2018 16:47:39 GMT+0530 (IST) ]:- Receiving objects:  48% (128/266), 1.15 MiB | 63.00 KiB/s   [  Thu Dec 20 2018 16:47:39 GMT+0530 (IST) ]:- Receiving objects:  49% (131/266), 1.20 MiB | 68.00 KiB/s   [  Thu Dec 20 2018 16:47:39 GMT+0530 (IST) ]:- Receiving objects:  50% (133/266), 1.20 MiB | 68.00 KiB/s   Receiving objects:  51% (136/266), 1.20 MiB | 68.00 KiB/s   [  Thu Dec 20 2018 16:47:40 GMT+0530 (IST) ]:- Receiving objects:  51% (136/266), 1.30 MiB | 83.00 KiB/s   [  Thu Dec 20 2018 16:47:40 GMT+0530 (IST) ]:- remote: Total 266 (delta 123), reused 139 (delta 33), pack-reused 0        
+Receiving objects:  52% (139/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  53% (141/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  54% (144/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  55% (147/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  56% (149/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  57% (152/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  58% (155/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  59% (157/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  60% (160/266), 1.30 MiB | 83.00 KiB/s   [  Thu Dec 20 2018 16:47:40 GMT+0530 (IST) ]:- Receiving objects:  61% (163/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  62% (165/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  63% (168/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  64% (171/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  65% (173/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  66% (176/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  67% (179/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  68% (181/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  69% (184/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  70% (187/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  71% (189/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  72% (192/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  73% (195/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  74% (197/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  75% (200/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  76% (203/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  77% (205/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  78% (208/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  79% (211/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  80% (213/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  81% (216/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  82% (219/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  83% (221/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  84% (224/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  85% (227/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  86% (229/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  87% (232/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  88% (235/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  89% (237/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  90% (240/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  91% (243/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  92% (245/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  93% (248/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  94% (251/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  95% (253/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  96% (256/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  97% (259/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  98% (261/266), 1.30 MiB | 83.00 KiB/s   Receiving objects:  99% (264/266), 1.30 MiB | 83.00 KiB/s   Receiving objects: 100% (266/266), 1.30 MiB | 83.00 KiB/s   Receiving objects: 100% (266/266), 1.34 MiB | 50.00 KiB/s, done.
+Resolving deltas:   0% (0/123)   [  Thu Dec 20 2018 16:47:40 GMT+0530 (IST) ]:- Resolving deltas:   7% (9/123)   Resolving deltas:  12% (15/123)   Resolving deltas:  19% (24/123)   Resolving deltas:  24% (30/123)   Resolving deltas:  27% (34/123)   Resolving deltas:  34% (42/123)   Resolving deltas:  47% (59/123)   Resolving deltas:  48% (60/123)   Resolving deltas:  50% (62/123)   Resolving deltas:  52% (64/123)   Resolving deltas:  56% (70/123)   Resolving deltas:  58% (72/123)   Resolving deltas:  62% (77/123)   Resolving deltas:  66% (82/123)   Resolving deltas:  67% (83/123)   Resolving deltas:  69% (85/123)   Resolving deltas:  70% (87/123)   [  Thu Dec 20 2018 16:47:40 GMT+0530 (IST) ]:- Resolving deltas:  90% (111/123)   Resolving deltas:  92% (114/123)   Resolving deltas:  93% (115/123)   Resolving deltas:  99% (122/123)   [  Thu Dec 20 2018 16:47:40 GMT+0530 (IST) ]:- Resolving deltas: 100% (123/123)   Resolving deltas: 100% (123/123), done.
+[  Thu Dec 20 2018 16:47:40 GMT+0530 (IST) ]:- git clone successful
+[  Thu Dec 20 2018 16:47:40 GMT+0530 (IST) ]:- No stopped containers
+[  Thu Dec 20 2018 16:47:41 GMT+0530 (IST) ]:- Building app
+[  Thu Dec 20 2018 16:47:41 GMT+0530 (IST) ]:- Step 1/8 : FROM node:8
+[  Thu Dec 20 2018 16:47:41 GMT+0530 (IST) ]:-  ---> 5ecc5dd8387d
+Step 2/8 : WORKDIR /usr/src/app
+ ---> Using cache
+ ---> 5957f6d253cf
+Step 3/8 : COPY package*.json ./
+[  Thu Dec 20 2018 16:47:42 GMT+0530 (IST) ]:-  ---> e0e64ee31329
+[  Thu Dec 20 2018 16:47:42 GMT+0530 (IST) ]:- Step 4/8 : RUN npm install
+[  Thu Dec 20 2018 16:47:42 GMT+0530 (IST) ]:-  ---> Running in 3564948ba42a
+[  Thu Dec 20 2018 16:47:54 GMT+0530 (IST) ]:- [91mnpm WARN deprecated[0m[  Thu Dec 20 2018 16:47:54 GMT+0530 (IST) ]:- [91m circular-json@0.3.3: CircularJSON is in maintenance only, flatted is its successor.
+[0m[  Thu Dec 20 2018 16:48:10 GMT+0530 (IST) ]:- 
+> nodemon@1.18.9 postinstall /usr/src/app/node_modules/nodemon
+> node bin/postinstall || exit 0
+
+[  Thu Dec 20 2018 16:48:10 GMT+0530 (IST) ]:- [32mLove nodemon? You can now support the project via the open collective:[22m[39m
+ > [96m[1mhttps://opencollective.com/nodemon/donate[0m
+
+[  Thu Dec 20 2018 16:48:11 GMT+0530 (IST) ]:- [91mnpm notice created a lockfile as package-lock.json. You should commit this file.
+[0m[  Thu Dec 20 2018 16:48:11 GMT+0530 (IST) ]:- [91mnpm WARN test@1.0.0 No description
+[0m[  Thu Dec 20 2018 16:48:11 GMT+0530 (IST) ]:- [91mnpm WARN test@1.0.0 No repository field.
+[0m[91mnpm WARN[0m[91m optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules/fsevents):
+[0m[91mnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+[0m[91m
+[0m[  Thu Dec 20 2018 16:48:11 GMT+0530 (IST) ]:- added 714 packages from 832 contributors and audited 5522 packages in 27.838s
+[  Thu Dec 20 2018 16:48:11 GMT+0530 (IST) ]:- found 0 vulnerabilities
+
+[  Thu Dec 20 2018 16:48:27 GMT+0530 (IST) ]:- Removing intermediate container 3564948ba42a
+[  Thu Dec 20 2018 16:48:27 GMT+0530 (IST) ]:-  ---> ab0b9c73f437
+Step 5/8 : COPY ./ ./
+[  Thu Dec 20 2018 16:48:29 GMT+0530 (IST) ]:- Step 6/8 : EXPOSE 5000
+[  Thu Dec 20 2018 16:48:29 GMT+0530 (IST) ]:-  ---> 8e9ca915093a
+[  Thu Dec 20 2018 16:48:30 GMT+0530 (IST) ]:-  ---> Running in 1dde4c244eb0
+[  Thu Dec 20 2018 16:48:31 GMT+0530 (IST) ]:- Removing intermediate container 1dde4c244eb0
+[  Thu Dec 20 2018 16:48:31 GMT+0530 (IST) ]:-  ---> b01676dda735
+Step 7/8 : RUN apt-get update && apt install -y expect
+[  Thu Dec 20 2018 16:48:32 GMT+0530 (IST) ]:-  ---> Running in 2ed58e492406
+[  Thu Dec 20 2018 16:48:33 GMT+0530 (IST) ]:- Ign:1 http://deb.debian.org/debian stretch InRelease
+[  Thu Dec 20 2018 16:48:33 GMT+0530 (IST) ]:- Get:2 http://deb.debian.org/debian stretch-updates InRelease [91.0 kB]
+[  Thu Dec 20 2018 16:48:34 GMT+0530 (IST) ]:- Get:3 http://security.debian.org/debian-security stretch/updates InRelease [94.3 kB]
+[  Thu Dec 20 2018 16:48:35 GMT+0530 (IST) ]:- Get:4 http://deb.debian.org/debian stretch Release [118 kB]
+[  Thu Dec 20 2018 16:48:35 GMT+0530 (IST) ]:- Get:5 http://security.debian.org/debian-security stretch/updates/main amd64 Packages [461 kB]
+[  Thu Dec 20 2018 16:48:36 GMT+0530 (IST) ]:- Get:6 http://deb.debian.org/debian stretch-updates/main amd64 Packages [5152 B]
+[  Thu Dec 20 2018 16:48:37 GMT+0530 (IST) ]:- Get:7 http://deb.debian.org/debian stretch Release.gpg [2434 B]
+[  Thu Dec 20 2018 16:48:37 GMT+0530 (IST) ]:- Get:8 http://deb.debian.org/debian stretch/main amd64 Packages [7089 kB]
+[  Thu Dec 20 2018 16:49:45 GMT+0530 (IST) ]:- Fetched 7862 kB in 1min 12s (109 kB/s)
+Reading package lists...[  Thu Dec 20 2018 16:49:45 GMT+0530 (IST) ]:- 
+[  Thu Dec 20 2018 16:49:45 GMT+0530 (IST) ]:- [91m
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+[0m[  Thu Dec 20 2018 16:49:45 GMT+0530 (IST) ]:- Reading package lists...[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:- 
+[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:- Building dependency tree...[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:- 
+Reading state information...[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:- 
+[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:- The following additional packages will be installed:
+  libdrm-amdgpu1 libdrm-intel1 libdrm-nouveau2 libdrm-radeon1 libdrm2
+[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:-   libfontenc1 libgl1-mesa-dri libgl1-mesa-glx libglapi-mesa libllvm3.9
+  libpciaccess0 libsensors4 libtcl8.6 libtk8.6 libtxc-dxtn-s2tc libutempter0
+  libx11-xcb1 libxaw7 libxcb-dri2-0 libxcb-dri3-0 libxcb-glx0 libxcb-present0
+  libxcb-shape0 libxcb-sync1 libxft2 libxmu6 libxmuu1 libxshmfence1 libxss1
+  libxtst6 libxv1 libxxf86dga1 libxxf86vm1 tcl-expect tcl8.6 tk8.6 x11-utils
+  xbitmaps xterm
+Suggested packages:
+  pciutils lm-sensors tcl-tclreadline mesa-utils xfonts-cyrillic
+[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:-   libfontenc1 libgl1-mesa-dri libgl1-mesa-glx libglapi-mesa libllvm3.9
+  libpciaccess0 libsensors4 libtcl8.6 libtk8.6 libtxc-dxtn-s2tc libutempter0
+  libx11-xcb1 libxaw7 libxcb-dri2-0 libxcb-dri3-0 libxcb-glx0 libxcb-present0
+  libxcb-shape0 libxcb-sync1 libxft2 libxmu6 libxmuu1 libxshmfence1 libxss1
+  libxtst6 libxv1 libxxf86dga1 libxxf86vm1 tcl-expect tcl8.6 tk8.6 x11-utils
+  xbitmaps xterm
+[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:- The following NEW packages will be installed:
+  expect libdrm-amdgpu1 libdrm-intel1 libdrm-nouveau2 libdrm-radeon1 libdrm2
+[  Thu Dec 20 2018 16:49:46 GMT+0530 (IST) ]:- 0 upgraded, 40 newly installed, 0 to remove and 14 not upgraded.
+Need to get 20.8 MB of archives.
+After this operation, 177 MB of additional disk space will be used.
+Get:1 http://deb.debian.org/debian stretch/main amd64 libxss1 amd64 1:1.2.2-1 [17.5 kB]
+[  Thu Dec 20 2018 16:49:47 GMT+0530 (IST) ]:- Get:2 http://deb.debian.org/debian stretch/main amd64 libtcl8.6 amd64 8.6.6+dfsg-1+b1 [985 kB]
+[  Thu Dec 20 2018 16:49:48 GMT+0530 (IST) ]:- Get:3 http://deb.debian.org/debian stretch/main amd64 tcl-expect amd64 5.45-7+deb9u1 [131 kB]
+[  Thu Dec 20 2018 16:49:48 GMT+0530 (IST) ]:- Get:4 http://deb.debian.org/debian stretch/main amd64 expect amd64 5.45-7+deb9u1 [165 kB]
+[  Thu Dec 20 2018 16:49:49 GMT+0530 (IST) ]:- Get:5 http://deb.debian.org/debian stretch/main amd64 libdrm2 amd64 2.4.74-1 [36.2 kB]
+[  Thu Dec 20 2018 16:49:49 GMT+0530 (IST) ]:- Get:6 http://deb.debian.org/debian stretch/main amd64 libdrm-amdgpu1 amd64 2.4.74-1 [26.4 kB]
+[  Thu Dec 20 2018 16:49:49 GMT+0530 (IST) ]:- Get:7 http://deb.debian.org/debian stretch/main amd64 libpciaccess0 amd64 0.13.4-1+b2 [50.0 kB]
+[  Thu Dec 20 2018 16:49:49 GMT+0530 (IST) ]:- Get:8 http://deb.debian.org/debian stretch/main amd64 libdrm-intel1 amd64 2.4.74-1 [68.7 kB]
+[  Thu Dec 20 2018 16:49:49 GMT+0530 (IST) ]:- Get:9 http://deb.debian.org/debian stretch/main amd64 libdrm-nouveau2 amd64 2.4.74-1 [25.1 kB]
+[  Thu Dec 20 2018 16:49:49 GMT+0530 (IST) ]:- Get:10 http://deb.debian.org/debian stretch/main amd64 libdrm-radeon1 amd64 2.4.74-1 [30.2 kB]
+[  Thu Dec 20 2018 16:49:50 GMT+0530 (IST) ]:- Get:11 http://deb.debian.org/debian stretch/main amd64 libfontenc1 amd64 1:1.1.3-1+b2 [24.4 kB]
+[  Thu Dec 20 2018 16:49:50 GMT+0530 (IST) ]:- Get:12 http://deb.debian.org/debian stretch/main amd64 libllvm3.9 amd64 1:3.9.1-9 [11.3 MB]
+[  Thu Dec 20 2018 16:50:37 GMT+0530 (IST) ]:- Get:13 http://deb.debian.org/debian stretch/main amd64 libsensors4 amd64 1:3.4.0-4 [53.3 kB]
+[  Thu Dec 20 2018 16:50:37 GMT+0530 (IST) ]:- Get:14 http://deb.debian.org/debian stretch/main amd64 libgl1-mesa-dri amd64 13.0.6-1+b2 [4536 kB]
+[  Thu Dec 20 2018 16:51:02 GMT+0530 (IST) ]:- Get:15 http://deb.debian.org/debian stretch/main amd64 libglapi-mesa amd64 13.0.6-1+b2 [58.9 kB]
+[  Thu Dec 20 2018 16:51:02 GMT+0530 (IST) ]:- Get:16 http://deb.debian.org/debian stretch/main amd64 libx11-xcb1 amd64 2:1.6.4-3+deb9u1 [183 kB]
+[  Thu Dec 20 2018 16:51:03 GMT+0530 (IST) ]:- Get:17 http://deb.debian.org/debian stretch/main amd64 libxcb-dri2-0 amd64 1.12-1 [97.2 kB]
+[  Thu Dec 20 2018 16:51:03 GMT+0530 (IST) ]:- Get:18 http://deb.debian.org/debian stretch/main amd64 libxcb-dri3-0 amd64 1.12-1 [95.6 kB]
+[  Thu Dec 20 2018 16:51:04 GMT+0530 (IST) ]:- Get:19 http://deb.debian.org/debian stretch/main amd64 libxcb-glx0 amd64 1.12-1 [113 kB]
+[  Thu Dec 20 2018 16:51:04 GMT+0530 (IST) ]:- Get:20 http://deb.debian.org/debian stretch/main amd64 libxcb-present0 amd64 1.12-1 [95.8 kB]
+[  Thu Dec 20 2018 16:51:05 GMT+0530 (IST) ]:- Get:21 http://deb.debian.org/debian stretch/main amd64 libxcb-sync1 amd64 1.12-1 [99.2 kB]
+[  Thu Dec 20 2018 16:51:05 GMT+0530 (IST) ]:- Get:22 http://deb.debian.org/debian stretch/main amd64 libxshmfence1 amd64 1.2-1+b2 [7922 B]
+[  Thu Dec 20 2018 16:51:06 GMT+0530 (IST) ]:- Get:23 http://deb.debian.org/debian stretch/main amd64 libxxf86vm1 amd64 1:1.1.4-1+b2 [20.8 kB]
+[  Thu Dec 20 2018 16:51:06 GMT+0530 (IST) ]:- Get:24 http://deb.debian.org/debian stretch/main amd64 libgl1-mesa-glx amd64 13.0.6-1+b2 [167 kB]
+[  Thu Dec 20 2018 16:51:06 GMT+0530 (IST) ]:- Get:25 http://deb.debian.org/debian stretch/main amd64 libxft2 amd64 2.3.2-1+b2 [56.5 kB]
+[  Thu Dec 20 2018 16:51:07 GMT+0530 (IST) ]:- Get:26 http://deb.debian.org/debian stretch/main amd64 libtk8.6 amd64 8.6.6-1+b1 [754 kB]
+[  Thu Dec 20 2018 16:51:10 GMT+0530 (IST) ]:- Get:27 http://deb.debian.org/debian stretch/main amd64 libutempter0 amd64 1.1.6-3 [7812 B]
+[  Thu Dec 20 2018 16:51:10 GMT+0530 (IST) ]:- Get:28 http://deb.debian.org/debian stretch/main amd64 libxmu6 amd64 2:1.1.2-2 [60.3 kB]
+[  Thu Dec 20 2018 16:51:10 GMT+0530 (IST) ]:- Get:29 http://deb.debian.org/debian stretch/main amd64 libxaw7 amd64 2:1.0.13-1+b2 [201 kB]
+[  Thu Dec 20 2018 16:51:11 GMT+0530 (IST) ]:- Get:30 http://deb.debian.org/debian stretch/main amd64 libxcb-shape0 amd64 1.12-1 [96.2 kB]
+[  Thu Dec 20 2018 16:51:12 GMT+0530 (IST) ]:- Get:31 http://deb.debian.org/debian stretch/main amd64 libxmuu1 amd64 2:1.1.2-2 [23.5 kB]
+[  Thu Dec 20 2018 16:51:12 GMT+0530 (IST) ]:- Get:32 http://deb.debian.org/debian stretch/main amd64 libxtst6 amd64 2:1.2.3-1 [27.8 kB]
+[  Thu Dec 20 2018 16:51:12 GMT+0530 (IST) ]:- Get:33 http://deb.debian.org/debian stretch/main amd64 libxv1 amd64 2:1.0.11-1 [24.6 kB]
+[  Thu Dec 20 2018 16:51:12 GMT+0530 (IST) ]:- Get:34 http://deb.debian.org/debian stretch/main amd64 libxxf86dga1 amd64 2:1.1.4-1+b3 [22.1 kB]
+[  Thu Dec 20 2018 16:51:13 GMT+0530 (IST) ]:- Get:35 http://deb.debian.org/debian stretch/main amd64 tcl8.6 amd64 8.6.6+dfsg-1+b1 [123 kB]
+[  Thu Dec 20 2018 16:51:13 GMT+0530 (IST) ]:- Get:36 http://deb.debian.org/debian stretch/main amd64 tk8.6 amd64 8.6.6-1+b1 [71.8 kB]
+[  Thu Dec 20 2018 16:51:13 GMT+0530 (IST) ]:- Get:37 http://deb.debian.org/debian stretch/main amd64 x11-utils amd64 7.7+3+b1 [202 kB]
+[  Thu Dec 20 2018 16:51:14 GMT+0530 (IST) ]:- Get:38 http://deb.debian.org/debian stretch/main amd64 xbitmaps all 1.1.1-2 [32.1 kB]
+[  Thu Dec 20 2018 16:51:14 GMT+0530 (IST) ]:- Get:39 http://deb.debian.org/debian stretch/main amd64 xterm amd64 327-2 [663 kB]
+[  Thu Dec 20 2018 16:51:17 GMT+0530 (IST) ]:- Get:40 http://deb.debian.org/debian stretch/main amd64 libtxc-dxtn-s2tc amd64 1.0+git20151227-2 [48.4 kB]
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- [91mdebconf: delaying package configuration, since apt-utils is not installed
+[0m[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Fetched 20.8 MB in 1min 31s (228 kB/s)
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Selecting previously unselected package libxss1:amd64.
+(Reading database ... [  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- (Reading database ... 70%[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- (Reading database ... 75%[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- (Reading database ... 80%[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- (Reading database ... 85%[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- (Reading database ... 90%[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- (Reading database ... 95%[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- (Reading database ... 100%(Reading database ... 29648 files and directories currently installed.)
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Preparing to unpack .../00-libxss1_1%3a1.2.2-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Unpacking libxss1:amd64 (1:1.2.2-1) ...
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Selecting previously unselected package libtcl8.6:amd64.
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Preparing to unpack .../01-libtcl8.6_8.6.6+dfsg-1+b1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Unpacking libtcl8.6:amd64 (8.6.6+dfsg-1+b1) ...
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Selecting previously unselected package tcl-expect:amd64.
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Preparing to unpack .../02-tcl-expect_5.45-7+deb9u1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:19 GMT+0530 (IST) ]:- Unpacking tcl-expect:amd64 (5.45-7+deb9u1) ...
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Selecting previously unselected package expect.
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Preparing to unpack .../03-expect_5.45-7+deb9u1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Unpacking expect (5.45-7+deb9u1) ...
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Selecting previously unselected package libdrm2:amd64.
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Preparing to unpack .../04-libdrm2_2.4.74-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Unpacking libdrm2:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Selecting previously unselected package libdrm-amdgpu1:amd64.
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Preparing to unpack .../05-libdrm-amdgpu1_2.4.74-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Unpacking libdrm-amdgpu1:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Selecting previously unselected package libpciaccess0:amd64.
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Preparing to unpack .../06-libpciaccess0_0.13.4-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:20 GMT+0530 (IST) ]:- Unpacking libpciaccess0:amd64 (0.13.4-1+b2) ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Selecting previously unselected package libdrm-intel1:amd64.
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Preparing to unpack .../07-libdrm-intel1_2.4.74-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Unpacking libdrm-intel1:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Selecting previously unselected package libdrm-nouveau2:amd64.
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Preparing to unpack .../08-libdrm-nouveau2_2.4.74-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Unpacking libdrm-nouveau2:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Selecting previously unselected package libdrm-radeon1:amd64.
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Preparing to unpack .../09-libdrm-radeon1_2.4.74-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Unpacking libdrm-radeon1:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Selecting previously unselected package libfontenc1:amd64.
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Preparing to unpack .../10-libfontenc1_1%3a1.1.3-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Unpacking libfontenc1:amd64 (1:1.1.3-1+b2) ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Selecting previously unselected package libllvm3.9:amd64.
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Preparing to unpack .../11-libllvm3.9_1%3a3.9.1-9_amd64.deb ...
+[  Thu Dec 20 2018 16:51:21 GMT+0530 (IST) ]:- Unpacking libllvm3.9:amd64 (1:3.9.1-9) ...
+[  Thu Dec 20 2018 16:51:24 GMT+0530 (IST) ]:- Selecting previously unselected package libsensors4:amd64.
+[  Thu Dec 20 2018 16:51:24 GMT+0530 (IST) ]:- Preparing to unpack .../12-libsensors4_1%3a3.4.0-4_amd64.deb ...
+[  Thu Dec 20 2018 16:51:24 GMT+0530 (IST) ]:- Unpacking libsensors4:amd64 (1:3.4.0-4) ...
+[  Thu Dec 20 2018 16:51:24 GMT+0530 (IST) ]:- Selecting previously unselected package libgl1-mesa-dri:amd64.
+[  Thu Dec 20 2018 16:51:24 GMT+0530 (IST) ]:- Preparing to unpack .../13-libgl1-mesa-dri_13.0.6-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:24 GMT+0530 (IST) ]:- Unpacking libgl1-mesa-dri:amd64 (13.0.6-1+b2) ...
+[  Thu Dec 20 2018 16:51:25 GMT+0530 (IST) ]:- Selecting previously unselected package libglapi-mesa:amd64.
+[  Thu Dec 20 2018 16:51:25 GMT+0530 (IST) ]:- Preparing to unpack .../14-libglapi-mesa_13.0.6-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:25 GMT+0530 (IST) ]:- Unpacking libglapi-mesa:amd64 (13.0.6-1+b2) ...
+[  Thu Dec 20 2018 16:51:25 GMT+0530 (IST) ]:- Selecting previously unselected package libx11-xcb1:amd64.
+[  Thu Dec 20 2018 16:51:25 GMT+0530 (IST) ]:- Preparing to unpack .../15-libx11-xcb1_2%3a1.6.4-3+deb9u1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:25 GMT+0530 (IST) ]:- Unpacking libx11-xcb1:amd64 (2:1.6.4-3+deb9u1) ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Selecting previously unselected package libxcb-dri2-0:amd64.
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Preparing to unpack .../16-libxcb-dri2-0_1.12-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Unpacking libxcb-dri2-0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Selecting previously unselected package libxcb-dri3-0:amd64.
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Preparing to unpack .../17-libxcb-dri3-0_1.12-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Unpacking libxcb-dri3-0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Selecting previously unselected package libxcb-glx0:amd64.
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Preparing to unpack .../18-libxcb-glx0_1.12-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Unpacking libxcb-glx0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Selecting previously unselected package libxcb-present0:amd64.
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Preparing to unpack .../19-libxcb-present0_1.12-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Unpacking libxcb-present0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Selecting previously unselected package libxcb-sync1:amd64.
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Preparing to unpack .../20-libxcb-sync1_1.12-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:26 GMT+0530 (IST) ]:- Unpacking libxcb-sync1:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Selecting previously unselected package libxshmfence1:amd64.
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Preparing to unpack .../21-libxshmfence1_1.2-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Unpacking libxshmfence1:amd64 (1.2-1+b2) ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Selecting previously unselected package libxxf86vm1:amd64.
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Preparing to unpack .../22-libxxf86vm1_1%3a1.1.4-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Unpacking libxxf86vm1:amd64 (1:1.1.4-1+b2) ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Selecting previously unselected package libgl1-mesa-glx:amd64.
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Preparing to unpack .../23-libgl1-mesa-glx_13.0.6-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Unpacking libgl1-mesa-glx:amd64 (13.0.6-1+b2) ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Selecting previously unselected package libxft2:amd64.
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Preparing to unpack .../24-libxft2_2.3.2-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Unpacking libxft2:amd64 (2.3.2-1+b2) ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Selecting previously unselected package libtk8.6:amd64.
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Preparing to unpack .../25-libtk8.6_8.6.6-1+b1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:27 GMT+0530 (IST) ]:- Unpacking libtk8.6:amd64 (8.6.6-1+b1) ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Selecting previously unselected package libutempter0:amd64.
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Preparing to unpack .../26-libutempter0_1.1.6-3_amd64.deb ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Unpacking libutempter0:amd64 (1.1.6-3) ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Selecting previously unselected package libxmu6:amd64.
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Preparing to unpack .../27-libxmu6_2%3a1.1.2-2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Unpacking libxmu6:amd64 (2:1.1.2-2) ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Selecting previously unselected package libxaw7:amd64.
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Preparing to unpack .../28-libxaw7_2%3a1.0.13-1+b2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Unpacking libxaw7:amd64 (2:1.0.13-1+b2) ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Selecting previously unselected package libxcb-shape0:amd64.
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Preparing to unpack .../29-libxcb-shape0_1.12-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Unpacking libxcb-shape0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Selecting previously unselected package libxmuu1:amd64.
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Preparing to unpack .../30-libxmuu1_2%3a1.1.2-2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Unpacking libxmuu1:amd64 (2:1.1.2-2) ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Selecting previously unselected package libxtst6:amd64.
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Preparing to unpack .../31-libxtst6_2%3a1.2.3-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:28 GMT+0530 (IST) ]:- Unpacking libxtst6:amd64 (2:1.2.3-1) ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Selecting previously unselected package libxv1:amd64.
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Preparing to unpack .../32-libxv1_2%3a1.0.11-1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Unpacking libxv1:amd64 (2:1.0.11-1) ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Selecting previously unselected package libxxf86dga1:amd64.
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Preparing to unpack .../33-libxxf86dga1_2%3a1.1.4-1+b3_amd64.deb ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Unpacking libxxf86dga1:amd64 (2:1.1.4-1+b3) ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Selecting previously unselected package tcl8.6.
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Preparing to unpack .../34-tcl8.6_8.6.6+dfsg-1+b1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Unpacking tcl8.6 (8.6.6+dfsg-1+b1) ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Selecting previously unselected package tk8.6.
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Preparing to unpack .../35-tk8.6_8.6.6-1+b1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Unpacking tk8.6 (8.6.6-1+b1) ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Selecting previously unselected package x11-utils.
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Preparing to unpack .../36-x11-utils_7.7+3+b1_amd64.deb ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Unpacking x11-utils (7.7+3+b1) ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Selecting previously unselected package xbitmaps.
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Preparing to unpack .../37-xbitmaps_1.1.1-2_all.deb ...
+[  Thu Dec 20 2018 16:51:29 GMT+0530 (IST) ]:- Unpacking xbitmaps (1.1.1-2) ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Selecting previously unselected package xterm.
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Preparing to unpack .../38-xterm_327-2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Unpacking xterm (327-2) ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Selecting previously unselected package libtxc-dxtn-s2tc:amd64.
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Preparing to unpack .../39-libtxc-dxtn-s2tc_1.0+git20151227-2_amd64.deb ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Unpacking libtxc-dxtn-s2tc:amd64 (1.0+git20151227-2) ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Setting up libxcb-present0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Setting up libxcb-dri2-0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Setting up libxcb-dri3-0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Setting up libxcb-glx0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:30 GMT+0530 (IST) ]:- Processing triggers for mime-support (3.60) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up xbitmaps (1.1.1-2) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libxss1:amd64 (1:1.2.2-1) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libxshmfence1:amd64 (1.2-1+b2) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libllvm3.9:amd64 (1:3.9.1-9) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libtxc-dxtn-s2tc:amd64 (1.0+git20151227-2) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- update-alternatives: using /usr/lib/x86_64-linux-gnu/s2tc/libtxc_dxtn.so to provide /usr/lib/x86_64-linux-gnu/libtxc_dxtn.so (libtxc-dxtn-x86_64-linux-gnu) in auto mode
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libglapi-mesa:amd64 (13.0.6-1+b2) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libxmuu1:amd64 (2:1.1.2-2) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libutempter0:amd64 (1.1.6-3) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libxtst6:amd64 (2:1.2.3-1) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libxmu6:amd64 (2:1.1.2-2) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libdrm2:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libxcb-sync1:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libx11-xcb1:amd64 (2:1.6.4-3+deb9u1) ...
+[  Thu Dec 20 2018 16:51:31 GMT+0530 (IST) ]:- Setting up libxxf86dga1:amd64 (2:1.1.4-1+b3) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Processing triggers for libc-bin (2.24-11+deb9u3) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libfontenc1:amd64 (1:1.1.3-1+b2) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libxcb-shape0:amd64 (1.12-1) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libpciaccess0:amd64 (0.13.4-1+b2) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libxv1:amd64 (2:1.0.11-1) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libsensors4:amd64 (1:3.4.0-4) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libdrm-radeon1:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libtcl8.6:amd64 (8.6.6+dfsg-1+b1) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libxxf86vm1:amd64 (1:1.1.4-1+b2) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libdrm-nouveau2:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libxft2:amd64 (2.3.2-1+b2) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Processing triggers for hicolor-icon-theme (0.15-1) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libxaw7:amd64 (2:1.0.13-1+b2) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libdrm-amdgpu1:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up libtk8.6:amd64 (8.6.6-1+b1) ...
+[  Thu Dec 20 2018 16:51:32 GMT+0530 (IST) ]:- Setting up xterm (327-2) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- update-alternatives: using /usr/bin/xterm to provide /usr/bin/x-terminal-emulator (x-terminal-emulator) in auto mode
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- update-alternatives: using /usr/bin/lxterm to provide /usr/bin/x-terminal-emulator (x-terminal-emulator) in auto mode
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Setting up libdrm-intel1:amd64 (2.4.74-1) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Setting up libgl1-mesa-glx:amd64 (13.0.6-1+b2) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Setting up tcl-expect:amd64 (5.45-7+deb9u1) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Setting up tcl8.6 (8.6.6+dfsg-1+b1) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Setting up expect (5.45-7+deb9u1) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Setting up tk8.6 (8.6.6-1+b1) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Setting up libgl1-mesa-dri:amd64 (13.0.6-1+b2) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Setting up x11-utils (7.7+3+b1) ...
+[  Thu Dec 20 2018 16:51:33 GMT+0530 (IST) ]:- Processing triggers for libc-bin (2.24-11+deb9u3) ...
+[  Thu Dec 20 2018 16:51:38 GMT+0530 (IST) ]:- Removing intermediate container 2ed58e492406
+[  Thu Dec 20 2018 16:51:38 GMT+0530 (IST) ]:-  ---> f248f9dd43f7
+Step 8/8 : CMD ["npm" , "run" , "server"]
+[  Thu Dec 20 2018 16:51:39 GMT+0530 (IST) ]:-  ---> Running in f6fc10056ce6
+[  Thu Dec 20 2018 16:51:39 GMT+0530 (IST) ]:- Removing intermediate container f6fc10056ce6
+[  Thu Dec 20 2018 16:51:39 GMT+0530 (IST) ]:-  ---> 14bd0be23bbc
+[  Thu Dec 20 2018 16:51:39 GMT+0530 (IST) ]:- Successfully built 14bd0be23bbc
+[  Thu Dec 20 2018 16:51:39 GMT+0530 (IST) ]:- Successfully tagged deploymentplatform_app:latest
+[  Thu Dec 20 2018 16:51:39 GMT+0530 (IST) ]:- Creating database_db ... 
+[  Thu Dec 20 2018 16:51:39 GMT+0530 (IST) ]:- Creating database_db
+[  Thu Dec 20 2018 16:51:41 GMT+0530 (IST) ]:- [1A[2KCreating database_db ... [32mdone[0m[1B[  Thu Dec 20 2018 16:51:41 GMT+0530 (IST) ]:- Creating backend_front ... 
+[  Thu Dec 20 2018 16:51:41 GMT+0530 (IST) ]:- Creating backend_front
+[  Thu Dec 20 2018 16:51:46 GMT+0530 (IST) ]:- [1A[2KCreating backend_front ... [32mdone[0m[1B[  Thu Dec 20 2018 16:51:46 GMT+0530 (IST) ]:- Attaching to database_db, backend_front
+[36mdatabase_db |[0m 2018-12-20T11:21:41.491+0000 I CONTROL  [main] Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'
+[  Thu Dec 20 2018 16:51:46 GMT+0530 (IST) ]:- [36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten] MongoDB starting : pid=1 port=27017 dbpath=/data/db 64-bit host=0b7d8481d2d7
+[  Thu Dec 20 2018 16:51:46 GMT+0530 (IST) ]:- [36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten] db version v4.0.4
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten] git version: f288a3bdf201007f3693c58e140056adf8b04839
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.2g  1 Mar 2016
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten] allocator: tcmalloc
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten] modules: none
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten] build environment:
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten]     distmod: ubuntu1604
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten]     distarch: x86_64
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten]     target_arch: x86_64
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I CONTROL  [initandlisten] options: { net: { bindIpAll: true } }
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I STORAGE  [initandlisten] 
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I STORAGE  [initandlisten] ** WARNING: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine
+[  Thu Dec 20 2018 16:51:46 GMT+0530 (IST) ]:- [36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I STORAGE  [initandlisten] **          See http://dochub.mongodb.org/core/prodnotes-filesystem
+[36mdatabase_db |[0m 2018-12-20T11:21:41.495+0000 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=7438M,session_max=20000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),statistics_log=(wait=0),verbose=(recovery_progress),
+[36mdatabase_db |[0m 2018-12-20T11:21:43.457+0000 I STORAGE  [initandlisten] WiredTiger message [1545304903:457302][1:0x7f229ad2fa40], txn-recover: Set global recovery timestamp: 0
+[36mdatabase_db |[0m 2018-12-20T11:21:44.673+0000 I RECOVERY [initandlisten] WiredTiger recoveryTimestamp. Ts: Timestamp(0, 0)
+[36mdatabase_db |[0m 2018-12-20T11:21:44.753+0000 I CONTROL  [initandlisten] 
+[36mdatabase_db |[0m 2018-12-20T11:21:44.753+0000 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+[36mdatabase_db |[0m 2018-12-20T11:21:44.753+0000 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+[36mdatabase_db |[0m 2018-12-20T11:21:44.753+0000 I CONTROL  [initandlisten] 
+[36mdatabase_db |[0m 2018-12-20T11:21:44.754+0000 I STORAGE  [initandlisten] createCollection: admin.system.version with provided UUID: 9158773e-e6b5-467b-899b-16b267eb4c95
+[36mdatabase_db |[0m 2018-12-20T11:21:44.822+0000 I COMMAND  [initandlisten] setting featureCompatibilityVersion to 4.0
+[36mdatabase_db |[0m 2018-12-20T11:21:44.827+0000 I STORAGE  [initandlisten] createCollection: local.startup_log with generated UUID: e73e6383-2be8-48a2-a37d-cef95b4578b8
+[36mdatabase_db |[0m 2018-12-20T11:21:44.920+0000 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory '/data/db/diagnostic.data'
+[36mdatabase_db |[0m 2018-12-20T11:21:44.923+0000 I NETWORK  [initandlisten] waiting for connections on port 27017
+[36mdatabase_db |[0m 2018-12-20T11:21:44.923+0000 I STORAGE  [LogicalSessionCacheRefresh] createCollection: config.system.sessions with generated UUID: fff698f4-e6fa-4080-a36f-027e60a6443f
+[36mdatabase_db |[0m 2018-12-20T11:21:45.042+0000 I INDEX    [LogicalSessionCacheRefresh] build index on: config.system.sessions properties: { v: 2, key: { lastUse: 1 }, name: "lsidTTLIndex", ns: "config.system.sessions", expireAfterSeconds: 1800 }
+[36mdatabase_db |[0m 2018-12-20T11:21:45.042+0000 I INDEX    [LogicalSessionCacheRefresh] 	 building index using bulk method; build may temporarily use up to 500 megabytes of RAM
+[36mdatabase_db |[0m 2018-12-20T11:21:45.043+0000 I INDEX    [LogicalSessionCacheRefresh] build index done.  scanned 0 total records. 0 secs
+[36mdatabase_db |[0m 2018-12-20T11:21:45.043+0000 I COMMAND  [LogicalSessionCacheRefresh] command config.$cmd command: createIndexes { createIndexes: "system.sessions", indexes: [ { key: { lastUse: 1 }, name: "lsidTTLIndex", expireAfterSeconds: 1800 } ], $db: "config" } numYields:0 reslen:114 locks:{ Global: { acquireCount: { r: 2, w: 2 } }, Database: { acquireCount: { w: 2, W: 1 } }, Collection: { acquireCount: { w: 2 } } } protocol:op_msg 120ms
+[  Thu Dec 20 2018 16:51:46 GMT+0530 (IST) ]:- [33mbackend_front |[0m 
+[33mbackend_front |[0m > test@1.0.0 server /usr/src/app
+[33mbackend_front |[0m > node server.js
+[  Thu Dec 20 2018 16:51:46 GMT+0530 (IST) ]:- [33mbackend_front |[0m 
+[  Thu Dec 20 2018 16:51:47 GMT+0530 (IST) ]:- [33mbackend_front |[0m auth 5012
+[33mbackend_front |[0m hello12
+[  Thu Dec 20 2018 16:51:47 GMT+0530 (IST) ]:- [33mbackend_front |[0m Thu, 20 Dec 2018 11:21:47 GMT express-session deprecated undefined resave option; provide resave option at server.js:55:9
+[33mbackend_front |[0m Thu, 20 Dec 2018 11:21:47 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:55:9
+[  Thu Dec 20 2018 16:51:47 GMT+0530 (IST) ]:- [33mbackend_front |[0m (node:19) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+[33mbackend_front |[0m listening on port 5000 for apprxjs actor framework
+[  Thu Dec 20 2018 16:51:47 GMT+0530 (IST) ]:- [33mbackend_front |[0m connection error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+[  Thu Dec 20 2018 16:51:47 GMT+0530 (IST) ]:- [33mbackend_front |[0m     at Pool.<anonymous> (/usr/src/app/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+[33mbackend_front |[0m     at emitOne (events.js:116:13)
+[33mbackend_front |[0m     at Pool.emit (events.js:211:7)
+[33mbackend_front |[0m     at Connection.<anonymous> (/usr/src/app/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+[33mbackend_front |[0m     at Object.onceWrapper (events.js:317:30)
+[33mbackend_front |[0m     at emitTwo (events.js:126:13)
+[33mbackend_front |[0m     at Connection.emit (events.js:214:7)
+[33mbackend_front |[0m     at Socket.<anonymous> (/usr/src/app/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+[33mbackend_front |[0m     at Object.onceWrapper (events.js:315:30)
+[33mbackend_front |[0m     at emitOne (events.js:116:13)
+[33mbackend_front |[0m     at Socket.emit (events.js:211:7)
+[33mbackend_front |[0m     at emitErrorNT (internal/streams/destroy.js:66:8)
+[33mbackend_front |[0m     at _combinedTickCallback (internal/process/next_tick.js:139:11)
+[33mbackend_front |[0m     at process._tickCallback (internal/process/next_tick.js:181:9)
+[33mbackend_front |[0m   name: 'MongoNetworkError',
+[33mbackend_front |[0m   errorLabels: [ 'TransientTransactionError' ],
+[33mbackend_front |[0m   [Symbol(mongoErrorContextSymbol)]: {} }

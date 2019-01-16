@@ -1,0 +1,38 @@
+
+.download {
+    float:right;
+    margin-right: 10px !important; 
+}
+
+.card {
+    max-width: 80%;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.popper-s {
+    z-index: 1 !important;
+}
+
+.fa-list {
+    color: black !important;
+}
+.appdeploy {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.deploybutton {
+    margin-top: 50px;
+    margin-left: 40% !important;
+}
+.avatar1 {
+    background-color: green;
+}
+
+.checkavatar {
+    float: right;
+} 
+
+.checkCircle {
+   height: 1.5em;
+}

@@ -1,0 +1,46 @@
+
+/* .inputData{
+    width: 60%;
+    height:80%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} */
+
+.main {
+    /* background-image: url(''); */
+  background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.root1 {
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.text1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 50vh;
+}
+
+.textField1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw;
+}
+
+.button1 {
+    margin-top: 2%;
+}
+
+.root2
+{
+    width: 77%;
+    margin: auto;
+    margin-top: 1%;
+}

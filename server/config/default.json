@@ -1,0 +1,6 @@
+{
+    "rxjs":{
+        "app":"rxjs actor framework",
+        "callbackUrl":"http://localhost:5000/auth/gitlab"
+    }
+}

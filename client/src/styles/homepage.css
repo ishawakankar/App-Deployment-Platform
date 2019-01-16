@@ -1,0 +1,71 @@
+.root{
+      flex-grow: 1;
+    }
+    
+.grow {
+      flex-grow: 1;
+    }
+    
+.button2 {
+      float: right;
+}    
+
+.fa {
+      font-size: 14px !important;
+      color: white !important;
+}
+h3 {
+      color:black;
+      margin: 0px !important;
+      padding: 10px !important;
+      padding-left: 17px !important;
+      padding-right: 17px !important;
+      text-align: center !important;
+}
+.username {
+      color:black;
+      text-align: center !important;
+      padding-left: 13px !important;
+      padding-right: 13px !important;
+}
+.buttonmenu {
+      text-align: center !important;
+      text-decoration: none;
+      padding: 0px !important;
+      width: 100% !important;
+}
+.app {
+      background-color:  black !important;
+      height: 10vh !important;
+}
+
+h5 {
+      padding: 0px;
+      margin: 0px;      
+}
+
+.menuButton {
+      margin-left: -12;
+      margin-right: 20;
+}
+    
+.lnk {
+      text-decoration: none;
+      padding-left: 1em;
+      color: white;
+}
+.heading{
+      text-align: right !important;
+      margin-left: 70% !important;
+      width:0px !important;
+}
+
+.profiledata {
+      z-index: 1;
+}
+
+@media only screen and (max-width: 1000px) {
+      .heading {
+          margin-left: 0 !important;
+      }
+  }
